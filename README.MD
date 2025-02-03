@@ -78,13 +78,13 @@ python cli.py report --days 30
 
 ```bash
 git clone https://github.com/KaiAlan/screen-time-tracker-cli-tool.git
-cd screen-time-tracker
+cd screen-time-tracker-cli-tool
 pip install -r requirements.txt
 ```
 
 ## File Structure
 ```
-screen-time-tracker/
+screen-time-tracker-cli-tool/
 ├── tracker.py       # Background tracking daemon
 ├── cli.py           # CLI interface
 ├── screen_time.db   # Database (auto-generated)

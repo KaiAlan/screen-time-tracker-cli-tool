@@ -1,2 +1,5 @@
+# psutil==5.9.5   # specify version if needed
+# pywin32==306    # specify version if needed
+
 psutil==5.9.5
 pywin32==306
